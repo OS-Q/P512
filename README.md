@@ -18,12 +18,12 @@
 * pcbnew - PCB布线程序
 * gerbview - Gerber(光绘文件)查看器
 
-### 优点
+### KiCad优点
 
-* 1.kicad是一款开源软件，遵守GNU的GPL版权协议，使用起来没有盗版的问题。
-* 2.kicad采用图形操作界面，配合鼠标和键盘使用很方便。
-* 3.Kicad是一个跨平台的工具，在linux和windows都可以方便使用。
-* 4.Kicad生成gerber文件很简便，PCB画好以后可以直接生成gerber文件。不用担心文件格式 [2] 
+* 开源软件，遵守GNU的GPL版权协议
+* 采用图形操作界面，鼠标和键盘使用很方便，支持脚本
+* 跨平台的工具，在linux和windows都可以方便使用
+* 可以直接生成gerber文件输出，不用担心文件格式
 
 
 ### 软件开发工具：[SDK](https://github.com/sochub/SDK)
