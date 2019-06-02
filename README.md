@@ -21,6 +21,17 @@ KiCad于1992年由Jean-Pierre Charras在IUT de Grenoble工作时创建。2013年
 * pcbnew - PCB布线程序
 * gerbview - Gerber(光绘文件)查看器
 
+pcbnew提供了至多50个层供电路板设计师使用：
+
+* 32个铜层供导线走线（可覆铜）
+* 14个固定用途技术层
+    * 12个技术层对（上技术层和下技术层对称）
+        * Adhesive, Solder Paste, Silk Screen, Solder Mask, Courtyard, Fabrication共计6对。
+    * 2个独立技术层：Edge Cuts, Margin
+* 4个辅助层可以任意使用：Comments, E.C.O. 1, E.C.O. 2, Drawings
+
+Pcbnew的层描述中F.代表电路板上层（Front），B.代表电路板的下层（Back）
+
 ### KiCad优点
 
 * GPL开源软件，同时维护有大量开源资源
@@ -38,8 +49,8 @@ KiCad于1992年由Jean-Pierre Charras在IUT de Grenoble工作时创建。2013年
 
 ### KiCad不足
 
-* 相对常用的商业软件，功能不够完善，细节不够完美，如铺铜、测距等
-* 产品的普及度和开发支持可以进一步提高
+* 相对常用的商业软件，功能不够完善，细节不够完美，如层管理（打开关闭）
+
 
 ###  [SoC资源平台](http://www.qitas.cn)
 
