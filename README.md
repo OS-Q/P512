@@ -30,6 +30,8 @@ pcbnew提供了至多50个层供电路板设计师使用：
     * 2个独立技术层：Edge Cuts, Margin
 * 4个辅助层可以任意使用：Comments, E.C.O. 1, E.C.O. 2, Drawings
 
+#### pcbnew 层描述
+
 Pcbnew的层描述中F.代表电路板上层（Front），B.代表电路板的下层（Back）
 
 铜层是用于放置和重新布置导线的工作层。 层号从0开始（第一个铜层，在上层，即F.Cu），并以31（最后一个铜层，在下层，即B.Cu）结束。 由于元件不能放置在内层（层1到层30）中，所以只有层0（F.Cu）和层31（B.Cu）是元件层。
@@ -47,6 +49,8 @@ Solder Mask (F.Mask and B.Mask)阻焊层：定义了焊接的掩模，也就是�
 Courtyard (F.CrtYd and B.CrtYd)空间层：用于显示元件在PCB上实际占用的空间大小。
 
 Fabrication (F.Fab and B.Fab)生产层：用于辅助元件贴装。
+
+Edge.Cuts边界层：用于绘制电路板轮廓（在此层上的任何元素（图形、文本…）都显示在所有其他图层上）。
 
 ### KiCad优点
 
