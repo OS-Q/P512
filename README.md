@@ -1,11 +1,14 @@
 ﻿# [KiCad](https://github.com/OS-Q/S05)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
+
+## related : [M12](https://github.com/OS-Q/M12)
+
 ### [KiCad简介](https://github.com/OS-Q/S05/wiki)
 
-[KiCad](hhttps://kicad.org/)于1992年由Jean-Pierre Charras在IUT de Grenoble工作时创建。2013年，CERN BE-CO-HT部门开始为KiCad提供资源，帮助促进KiCad与商用EDA工具相媲美。
+[KiCad](https://kicad.org/)于1992年由Jean-Pierre Charras在IUT de Grenoble工作时创建。2013年，CERN BE-CO-HT部门开始为KiCad提供资源，帮助促进KiCad与商用EDA工具相媲美。
 
-[KiCad](http://kicad-pcb.org/) 是一款十分流行且强大的基于GPL的开源EDA，主要包括一个工程管理器和四个主要程序:
+[KiCad](http://kicad-pcb.org/)是一款十分流行且强大的基于GPL的开源EDA，主要包括一个工程管理器和四个主要程序:
 
 * kicad - 工程管理器
 * eeschema - 原理图编辑器
@@ -17,8 +20,7 @@ pcbnew提供了至多50个层供电路板设计师使用：
 
 * 32个铜层供导线走线（可覆铜）
 * 14个固定用途技术层
-    * 12个技术层对（上技术层和下技术层对称）
-        * Adhesive, Solder Paste, Silk Screen, Solder Mask, Courtyard, Fabrication共计6对。
+    * 12个技术层对（上技术层和下技术层对称）: Adhesive, Solder Paste, Silk Screen, Solder Mask, Courtyard, Fabrication共计6对。
     * 2个独立技术层：Edge Cuts, Margin
 * 4个辅助层可以任意使用：Comments, E.C.O. 1, E.C.O. 2, Drawings
 
@@ -44,17 +46,13 @@ Fabrication (F.Fab and B.Fab)生产层：用于辅助元件贴装。
 
 Edge.Cuts边界层：用于绘制电路板轮廓（在此层上的任何元素（图形、文本…）都显示在所有其他图层上）。
 
-### KiCad优点
+#### KiCad优点
 
 * GPL开源软件，同时维护有大量开源资源
 * 图形操作界面，鼠标和键盘操作很方便，支持脚本
 * 相应功能全面，完全能够满足常规PCB的设计需求
 * 跨平台的工具，linux、mac、windows都可以使用
 * 可以直接生成gerber文件输出，不用担心文件格式
-
-### KiCad特点
-
-* 开源，便于硬件设计资料开源共享
 * 软件不大，对电脑的配置要求不高
 * 学习入门的门槛低，相关资料丰富
 * 快捷键和热键强大，操作很人性化
