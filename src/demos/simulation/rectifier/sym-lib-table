@@ -1,3 +1,0 @@
-(sym_lib_table
-  (lib (name rectifier_schlib)(type Legacy)(uri ${KIPRJMOD}/rectifier_schlib.lib)(options "")(descr ""))
-)

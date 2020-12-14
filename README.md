@@ -1,16 +1,10 @@
-﻿# [KiCad](https://github.com/SoCXin/KiCad)
+﻿# [KiCad](https://github.com/OS-Q/S05)
 
-[![sites](http://182.61.61.133/link/resources/SoC.png)](http://www.SoC.Xin)
+[![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
+### [KiCad简介](https://github.com/OS-Q/S05/wiki)
 
-### [KiCad简介](https://github.com/SoCXin/KiCad/wiki)
+[KiCad](hhttps://kicad.org/)于1992年由Jean-Pierre Charras在IUT de Grenoble工作时创建。2013年，CERN BE-CO-HT部门开始为KiCad提供资源，帮助促进KiCad与商用EDA工具相媲美。
 
-共享知识时代的发展注定通过开源淘汰不够进取的产品和利润十足的市场。传统的EDA巨头如[Cadence](https://github.com/SoCXin/Cadence)、[Altium Designer](https://github.com/SoCXin/Altium)、[mentor PADS](https://github.com/SoCXin/PADS)已是庞然大物，足以应付各种具有挑战性的设计，也是EDA行业发展的风向标，但如同硬件的发展一般，特别是智能硬件层面的简单PCB设计，在完全智能化程度不足的情况下提升产品的复杂度，很多强大的功能也只是屠龙之术，个人和中小型企业需要的也只是很简单的功能，所以更简单的EDA，而且没有成本的EDA是中小企业和创客群体的刚需。
-
-在开源产品之前，国内学生和创客团体更多使用破解版本的[Altium Designer](https://github.com/SoCXin/Altium)软件上手实践，所以各种资源和库十分常见，学习入门也比较简单，但进入中大型企业可能就面临更换设计工具的问题，工作上使用的工具和个人平时使用的工具在一定程度上不统一，资源就会浪费，难免重复劳动，盗版软件毕竟是有心理障碍的。
-
-KiCad于1992年由Jean-Pierre Charras在IUT de Grenoble工作时创建。2013年，CERN BE-CO-HT部门开始为KiCad提供资源，帮助促进KiCad与商用EDA工具相媲美。
-
-版权声明：本文为博主原创文章，转载请附上博文链接！
 [KiCad](http://kicad-pcb.org/) 是一款十分流行且强大的基于GPL的开源EDA，主要包括一个工程管理器和四个主要程序:
 
 * kicad - 工程管理器
@@ -66,4 +60,4 @@ Edge.Cuts边界层：用于绘制电路板轮廓（在此层上的任何元素�
 * 快捷键和热键强大，操作很人性化
 
 
-###  [SoC芯平台](http://www.SoC.Xin)
+### [OS-Q = Open Source & Operating System ](http://www.OS-Q.com)

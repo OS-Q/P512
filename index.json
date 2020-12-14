@@ -1,0 +1,7 @@
+{
+    "name":"KiCad",
+    "type":"EDA",
+    "base":"*",
+    "url":"https://github.com/OS-Q/S05",
+    "version":"1.0.0"
+}
