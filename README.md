@@ -1,10 +1,9 @@
-﻿# [KiCad](https://github.com/OS-Q/S05)
+﻿# [KiCad](https://github.com/OS-Q/M01)
 
 [![sites](http://182.61.61.133/link/resources/OSQ.png)](http://www.OS-Q.com)
 
-## related : [M12](https://github.com/OS-Q/M12)
 
-### [KiCad简介](https://github.com/OS-Q/S05/wiki)
+### [简介](https://github.com/OS-Q/M01/wiki)
 
 [KiCad](https://kicad.org/)于1992年由Jean-Pierre Charras在IUT de Grenoble工作时创建。2013年，CERN BE-CO-HT部门开始为KiCad提供资源，帮助促进KiCad与商用EDA工具相媲美。
 
@@ -58,4 +57,4 @@ Edge.Cuts边界层：用于绘制电路板轮廓（在此层上的任何元素�
 * 快捷键和热键强大，操作很人性化
 
 
-### [OS-Q = Open Source & Operating System ](http://www.OS-Q.com)
+### [源圈 OS-Q (Open Source & QA) ](http://www.OS-Q.com)
