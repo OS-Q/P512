@@ -7,7 +7,7 @@
 
 [KiCad](https://kicad.org/)于1992年由Jean-Pierre Charras在IUT de Grenoble工作时创建。2013年，CERN BE-CO-HT部门开始为KiCad提供资源，帮助促进KiCad与商用EDA工具相媲美。
 
-[KiCad](http://kicad-pcb.org/)是一款十分流行且强大的基于GPL的开源EDA，主要包括一个工程管理器和四个主要程序:
+[KiCad](http://kicad.org/)是一款十分流行且强大的基于GPL的开源EDA，主要包括一个工程管理器和四个主要程序:
 
 * kicad - 工程管理器
 * eeschema - 原理图编辑器
